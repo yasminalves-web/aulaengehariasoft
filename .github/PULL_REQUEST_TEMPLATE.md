@@ -16,7 +16,7 @@ Relates to: #YY
 - [ ] Código revisado
 - [ ] Atendeu critérios de aceitação
 - [ ] Testado
-- [ ] Documentação atualizada (se necessário)
+- [X] Documentação atualizada (se necessário)
 
 ---
 
